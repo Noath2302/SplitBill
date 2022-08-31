@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "vrs1MBxVOH8mcPO/r7H3Antne9bUnSHyo/waFtKn2S9mvZVBXorgK40Zux3rfLM3rlnq4ndCklIgYS+GQRJ70w==",
+  "success": true,
+  "projectFilePath": "E:\\MyWork\\test-ground\\SplitBill\\SplitBill.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Noath\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Noath\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Noath\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\Noath\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

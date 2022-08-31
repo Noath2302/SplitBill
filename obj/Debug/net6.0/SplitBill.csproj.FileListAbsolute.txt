@@ -1,0 +1,15 @@
+E:\MyWork\test-ground\SplitBill\bin\Debug\net6.0\SplitBill.exe
+E:\MyWork\test-ground\SplitBill\bin\Debug\net6.0\SplitBill.deps.json
+E:\MyWork\test-ground\SplitBill\bin\Debug\net6.0\SplitBill.runtimeconfig.json
+E:\MyWork\test-ground\SplitBill\bin\Debug\net6.0\SplitBill.dll
+E:\MyWork\test-ground\SplitBill\bin\Debug\net6.0\SplitBill.pdb
+E:\MyWork\test-ground\SplitBill\obj\Debug\net6.0\SplitBill.csproj.AssemblyReference.cache
+E:\MyWork\test-ground\SplitBill\obj\Debug\net6.0\SplitBill.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyWork\test-ground\SplitBill\obj\Debug\net6.0\SplitBill.AssemblyInfoInputs.cache
+E:\MyWork\test-ground\SplitBill\obj\Debug\net6.0\SplitBill.AssemblyInfo.cs
+E:\MyWork\test-ground\SplitBill\obj\Debug\net6.0\SplitBill.csproj.CoreCompileInputs.cache
+E:\MyWork\test-ground\SplitBill\obj\Debug\net6.0\SplitBill.dll
+E:\MyWork\test-ground\SplitBill\obj\Debug\net6.0\refint\SplitBill.dll
+E:\MyWork\test-ground\SplitBill\obj\Debug\net6.0\SplitBill.pdb
+E:\MyWork\test-ground\SplitBill\obj\Debug\net6.0\SplitBill.genruntimeconfig.cache
+E:\MyWork\test-ground\SplitBill\obj\Debug\net6.0\ref\SplitBill.dll
